@@ -9,5 +9,5 @@ Algoritmo Ejercicio2
 		suma <- suma+n1
 	FinMientras
 	media <- suma/i
-	Escribir 'La suma de todos los numeros intrucidos es ', suma " y la media es " media
+	Escribir 'La suma de todos los numeros intrucidos es ' suma ' y la media es ' media
 FinAlgoritmo
